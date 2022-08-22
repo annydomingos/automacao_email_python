@@ -1,9 +1,9 @@
 ## Criado automação de envio de relatório de vendas por email, utilizando o aplicativo Outlook, via python. #
-Foi importado dados presentes em uma tabela excel;
+-Foi importado dados presentes em uma tabela excel;
 
 -Feito a visualização dos dados por meio da biblioteca pandas;
 
--Calculo do faturamento, produtos vendidos e ticket médio por loja;
+-Cálculo do faturamento, produtos vendidos e ticket médio por loja;
 
 -Formatação do email e automatização do envio.
 
